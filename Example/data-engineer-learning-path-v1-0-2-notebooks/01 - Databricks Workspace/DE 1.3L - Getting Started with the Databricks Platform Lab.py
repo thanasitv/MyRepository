@@ -175,7 +175,8 @@ display(files)
 
 # COMMAND ----------
 
-print(my_name)
+# MAGIC %python
+# MAGIC print(my_name)
 
 # COMMAND ----------
 
